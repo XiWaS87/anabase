@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- flavien -->
 <html lang="en">
 
 <head>
